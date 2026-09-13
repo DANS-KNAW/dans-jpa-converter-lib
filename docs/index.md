@@ -3,11 +3,11 @@ Description
 
 Library with JPA attribute converters.
 
-This library provides a set of ready-to-use JPA converters.
+This library provides a set of ready-to-use JPA `AttributeConverter` implementations.
 
 ### JPA
 
-These converters are used on classes that represent entities in a JPA (Java Persistence API) context, typically used in databases.
+These `AttributeConverter`s are used on classes that represent entities in a JPA (Java Persistence API) context, typically used in databases.
 
 Example usage:
 

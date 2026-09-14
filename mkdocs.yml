@@ -14,12 +14,12 @@
 # limitations under the License.
 #
 
-site_name: dans-converter-lib
+site_name: dans-jpa-converter-lib
 theme:
   name: readthedocs
 
-repo_name: DANS-KNAW/dans-converter-lib
-repo_url: https://github.com/DANS-KNAW/dans-converter-lib
+repo_name: DANS-KNAW/dans-jpa-converter-lib
+repo_url: https://github.com/DANS-KNAW/dans-jpa-converter-lib
 
 nav:
   - Manual:

@@ -25,12 +25,12 @@
         <relativePath />
     </parent>
     <artifactId>dans-jpa-converter-lib</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <name>DANS JPA converters</name>
     <inceptionYear>2026</inceptionYear>
     <scm>
         <developerConnection>scm:git:ssh://github.com/DANS-KNAW/${project.artifactId}</developerConnection>
-        <tag>v0.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>

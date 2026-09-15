@@ -21,14 +21,16 @@
     <parent>
         <groupId>nl.datastations</groupId>
         <artifactId>dans-core-systems-parent</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0</version>
         <relativePath/>
     </parent>
     <artifactId>dans-jpa-converter-lib</artifactId>
     <version>0.1.1-SNAPSHOT</version>
     <name>DANS JPA converters</name>
     <inceptionYear>2026</inceptionYear>
+
     <scm>
+        <connection>scm:git:https://github.com/DANS-KNAW/${project.artifactId}</connection>
         <developerConnection>scm:git:ssh://github.com/DANS-KNAW/${project.artifactId}</developerConnection>
         <tag>HEAD</tag>
     </scm>

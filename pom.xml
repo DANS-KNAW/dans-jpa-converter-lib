@@ -22,7 +22,7 @@
         <groupId>nl.datastations</groupId>
         <artifactId>dans-core-systems-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <artifactId>dans-jpa-converter-lib</artifactId>
     <version>0.1.1-SNAPSHOT</version>

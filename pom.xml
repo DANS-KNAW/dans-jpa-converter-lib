@@ -27,6 +27,7 @@
     <artifactId>dans-jpa-converter-lib</artifactId>
     <version>0.1.2-SNAPSHOT</version>
     <name>DANS JPA converters</name>
+    <url>https://dans-knaw.github.io/${project.artifactId}</url>
     <inceptionYear>2026</inceptionYear>
 
     <scm>

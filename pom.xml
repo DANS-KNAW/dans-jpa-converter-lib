@@ -34,7 +34,7 @@
         <connection>scm:git:https://github.com/DANS-KNAW/dans-jpa-converter-lib</connection>
         <developerConnection>scm:git:ssh://github.com/DANS-KNAW/dans-jpa-converter-lib</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/DANS-KNAW/${project.artifactId}</url>
+        <url>https://github.com/DANS-KNAW/dans-jpa-converter-lib</url>
     </scm>
 
     <dependencies>

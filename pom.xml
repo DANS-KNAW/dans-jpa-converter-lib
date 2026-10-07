@@ -25,7 +25,7 @@
         <relativePath />
     </parent>
     <artifactId>dans-jpa-converter-lib</artifactId>
-    <version>0.1.4-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>DANS JPA converters</name>
     <url>https://dans-knaw.github.io/${project.artifactId}</url>
     <inceptionYear>2026</inceptionYear>
@@ -33,7 +33,7 @@
     <scm>
         <connection>scm:git:https://github.com/DANS-KNAW/dans-jpa-converter-lib</connection>
         <developerConnection>scm:git:ssh://github.com/DANS-KNAW/dans-jpa-converter-lib</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.0.0</tag>
         <url>https://github.com/DANS-KNAW/dans-jpa-converter-lib</url>
     </scm>
 
